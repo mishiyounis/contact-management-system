@@ -1,0 +1,19 @@
+[
+    {
+        "id": 3,
+        "name": "ali",
+        "phone": "03108765432",
+        "email": "abc@email.com",
+        "city": "rawalpindi",
+        "company": "abc"
+    },
+    {
+        "id": 2,
+        "name": "danish ahmed",
+        "phone": "0310987654",
+        "email": "acf@mail.com",
+        "city": "islamabad",
+        "company": "xyz",
+        "favorite": false
+    }
+]
